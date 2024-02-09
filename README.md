@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I love Slipknot**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
