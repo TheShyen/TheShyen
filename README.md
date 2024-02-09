@@ -1,15 +1,6 @@
-<div id="header" align="center">
-    <div id="badges">
-    <a href="https://t.me/TheShyen">
-      <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram"/>
-    </a>
-</div>
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">Frontend developer from Ufa</h3>
+<h3 align="center">Frontend developer from Ufa</h3>\
 
-
-
-<p align="left">
 - 🔭 I’m currently working on [Lol-Stats](https://github.com/TheShyen/lol-mastery)
 
 - 💬 Ask me about **Vue,TS, Pinia,Quasar**
@@ -17,6 +8,8 @@
 - 📫 How to reach me **TG: @Theshyen**
 
 - ⚡ Fun fact **I love Slipknot**
+
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
