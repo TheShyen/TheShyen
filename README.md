@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">Frontend developer from Ufa</h3>\
+<h3 align="center">Frontend developer from Ufa</h3>
 
 - 🔭 I’m currently working on [Lol-Stats](https://github.com/TheShyen/lol-mastery)
 
