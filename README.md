@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF6bDdudGZwZ3IyNTZqY2ZpNWQ3N2QyZTY5cDBhd2FnN3hxaDZ6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" width="100%"/>
+    <div id="badges">
+    <a href="https://t.me/TheShyen">
+      <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram"/>
+    </a>
+</div>
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">Frontend developer from Ufa</h3>
 
