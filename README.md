@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lol-Stats](https://github.com/TheShyen/lol-mastery)
 
-- 💬 Ask me about **Vue,TS, Pinia,Quasar**
+- 📦 Tech stack: **JavaScript, TypeScript, Vue, HTML/CSS, Nuxt**
 
 - 📫 How to reach me **TG: @Theshyen**
 
