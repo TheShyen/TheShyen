@@ -5,7 +5,7 @@
 
 - 📦 Tech stack: **JavaScript, TypeScript, Vue, HTML/CSS, Nuxt**
 
-- 📫 How to reach me **TG: @Theshyen**
+- 📫 How to reach me **TG: [@Theshyen](t.me/theshyen)**
 
 - ⚡ Fun fact **I love Slipknot**
 
