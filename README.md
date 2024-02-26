@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Telegram: [@Theshyen](https://t.me/theshyen)**
 
-- ⚡ Fun fact **I love Slipknot**
+- ⚡ Hobbies: anime, heavy music and games
 
 <p align="left">
 </p>
